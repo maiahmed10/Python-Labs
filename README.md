@@ -6,7 +6,7 @@ This repository contains my Python lab exercises and practice tasks.
 
 - Lab 1
 - Lab 2
-
+- Lab 3
 ## Tools
 
 - Python
